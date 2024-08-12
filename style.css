@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar-brand .brand-image {
+    width: 50px;
+    height: auto;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.blog-post {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    width: 100%;
+    bottom: 0;
+}
